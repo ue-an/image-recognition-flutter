@@ -1,0 +1,12 @@
+com.example.yournal.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Acer\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.yournal.app-core-1.6.0-1 C:\Users\Acer\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.yournal.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Acer\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.yournal.app-jetified-window-1.0.0-beta04-3 C:\Users\Acer\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.yournal.app-debug-4 C:\_uei\_Projects\_Flutter\yournal\android\app\src\debug\res
+com.example.yournal.app-main-5 C:\_uei\_Projects\_Flutter\yournal\android\app\src\main\res
+com.example.yournal.app-pngs-6 C:\_uei\_Projects\_Flutter\yournal\build\app\generated\res\pngs\debug
+com.example.yournal.app-resValues-7 C:\_uei\_Projects\_Flutter\yournal\build\app\generated\res\resValues\debug
+com.example.yournal.app-rs-8 C:\_uei\_Projects\_Flutter\yournal\build\app\generated\res\rs\debug
+com.example.yournal.app-mergeDebugResources-9 C:\_uei\_Projects\_Flutter\yournal\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.yournal.app-mergeDebugResources-10 C:\_uei\_Projects\_Flutter\yournal\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.yournal.app-merged_res-11 C:\_uei\_Projects\_Flutter\yournal\build\app\intermediates\merged_res\debug
